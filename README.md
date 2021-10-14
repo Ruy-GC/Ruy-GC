@@ -3,6 +3,7 @@
 - I’m currently learning to use unity and C# for game development and I´m a college student on my third semester in a computer science.
 - I’m looking forward to get an internship in microsoft, facebook or google. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruy-GC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Ruy-GC/Ruy-GC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
