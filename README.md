@@ -3,6 +3,8 @@
 - I’m currently learning to use unity and C# for game development and I´m a college student on my third semester in a computer science.
 - I’m looking forward to get an internship in microsoft, facebook or google. 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruy-GC&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruy-GC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
