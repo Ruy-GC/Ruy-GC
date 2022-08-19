@@ -10,10 +10,6 @@
 <tr>
 <th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=Ruy-GC&show_icons=true&theme=radical"></th>
 </tr>
-<tr>
-<th style="text-align:center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ruy-GC&theme=vue">
-</th>
-</tr>
 </thead>
 </table>
 
