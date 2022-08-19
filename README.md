@@ -13,10 +13,6 @@
 </thead>
 </table>
 
-- I’m interested in web development, videogame development and multiple programming languages. Also I´m interested about how AI and machine learning work and learn how to work with it in the future.
-- I’m currently learning to use unity and C# for game development and I´m a college student on my third semester in a computer science.
-- I’m looking forward to get an internship in microsoft, facebook or google. 
-
 ## Latest Projects
 <table align="center">
 <td>
