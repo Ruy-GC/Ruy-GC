@@ -2,13 +2,13 @@
 <table align="center">
 <thead>
 <tr>
-<th style="text-align:center"><img src="https://komarev.com/ghpvc/?username=Ruy-GC"></th>
-</tr>
-<tr>
 <th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruy-GC&theme=tokyonight"></th>
 </tr>
 <tr>
 <th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=Ruy-GC&show_icons=true&theme=radical"></th>
+</tr>
+<tr>
+<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruy-GC&layout=compact&theme=dracula&hide=jupyter%20notebook"></th>
 </tr>
 </thead>
 </table>
