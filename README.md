@@ -1,4 +1,7 @@
 # Hi, I’m @Ruy-GC.
+
+My name is Ruy Guzmán! I'm a computer science and technology student at Tec de Monterrey, Campus Guadalajara. I'm passionate about learning new things every day and developing challenging projects.
+
 <table align="center">
 <thead>
 <tr>
@@ -64,6 +67,12 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+</div>
+
+## Contact me
+<div style = "display:flex">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
 <!---
