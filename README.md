@@ -3,12 +3,8 @@
 <thead>
 <tr>
 <th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruy-GC&theme=tokyonight"></th>
-</tr>
-<tr>
-<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=Ruy-GC&show_icons=true&theme=radical"></th>
-</tr>
-<tr>
-<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruy-GC&layout=compact&theme=dracula&hide=jupyter%20notebook"></th>
+<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=Ruy-GC&show_icons=true&theme=tokyonight"></th>
+<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruy-GC&layout=compact&theme=tokyonight&hide=jupyter%20notebook"></th>
 </tr>
 </thead>
 </table>
@@ -16,13 +12,16 @@
 <center>
 </center>
 
-## Latest Projects
+## Favorite Projects
 <table align="center">
 <td>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ruy-GC&repo=Geriatrik">
 </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ruy-GC&repo=Geriatrik-API">
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ruy-GC&repo=BAMX">
 </td>
 </table>
 
@@ -35,6 +34,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 </div>
 
 ## Frameworks & Tools
@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 </div>
 
 ## Database
