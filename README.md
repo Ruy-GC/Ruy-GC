@@ -6,7 +6,7 @@ My name is Ruy Guzmán! I'm a computer science and technology student at Tec de 
 <thead>
 <tr>
 <th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruy-GC&theme=tokyonight"></th>
-<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=Ruy-GC&show_icons=true&theme=tokyonight"></th>
+<th style="text-align:center"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ruy-GC&show_icons=true&include_all_commits=true&theme=tokyonight" alt="My github stats"/></th>
 <th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruy-GC&layout=compact&theme=tokyonight&hide=jupyter%20notebook"></th>
 </tr>
 </thead>
