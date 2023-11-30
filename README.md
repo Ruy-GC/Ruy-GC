@@ -3,6 +3,11 @@
 My name is Ruy Guzmán! I'm a computer science and technology student at Tec de Monterrey, Campus Guadalajara. I'm passionate about learning new things every day and developing challenging projects.
 
 <!--START_SECTION:waka-->
+
+```txt
+Python   3 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <table align="center">
