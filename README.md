@@ -5,11 +5,11 @@ My name is Ruy Guzmán! I'm a computer science and technology student at Tec de 
 <!--START_SECTION:waka-->
 
 ```txt
-Python        2 hrs           ██████████████████▒░░░░░░   73.46 %
-C++           13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-Text          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-C             10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Other         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Python        1 hr 58 mins    ██████████████████▒░░░░░░   73.05 %
+C++           13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Text          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+C             10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Other         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
