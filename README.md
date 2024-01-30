@@ -5,7 +5,7 @@ My name is Ruy Guzmán! I'm a computer science and technology student at Tec de 
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   3 hrs 41 mins   █████████████████████████   100.00 %
+Markdown   4 hrs 40 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
